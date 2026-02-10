@@ -1,8 +1,6 @@
 # FLAGS
 
-- `ATHACKCTF{y0ur1stflagGoesHere}` 
-- `ATHACKCTF{y0ur2ndflagGoesHere}`
-- `...`
+- `ATHACKCTF{7h15_15_w3b_v13w}` 
 
 ## IMPORTANT
 Unless it's impossible or technically difficult, flags should follow the format `ATHACKCTF{__________}` 
