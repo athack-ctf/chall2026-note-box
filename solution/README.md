@@ -153,8 +153,11 @@ and it is also loading notes from a local database called memories.db:
 But what is C0096b?
 <img width="1432" height="503" alt="image" src="https://github.com/user-attachments/assets/b76aa35a-1dfa-47ab-8c85-b5bcd7a220f8" />
 we can see that the application is communicating with the local database using SQLite Queries. so there is a big chance that we could push notes to the application by communicating with exported activity and pushing notes into the database. let's see about that:
+
 <img width="877" height="117" alt="image" src="https://github.com/user-attachments/assets/2d675310-bd4c-4bc7-b333-75e24d1d65dc" />
+
 let's restart the application:
+
 <img width="877" height="117" alt="image" src="https://github.com/user-attachments/assets/4c05b75d-a04c-476c-929f-0c58d450399c" />
 
 we successfuly pushed a note into the application. now let's launch our attack. let's take a look at this code in MainActivity:
