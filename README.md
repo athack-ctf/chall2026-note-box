@@ -14,7 +14,6 @@
 
 ## Designer(s)
 
-- Ada Lovelace
 - Mohammad Aghaee
 
 ## Description
