@@ -1,5 +1,4 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+Cross platform technologies have cross platform vulnerabilities. exploit it...
 
 ---
 If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
