@@ -1,6 +1,6 @@
 # Chall - Your Challenge Title
 
-> A brief description of the challenge
+> Cross platform technologies have cross platform vulnerabilities. exploit it...
 
 ## Challenge Type
 
@@ -15,29 +15,17 @@
 ## Designer(s)
 
 - Ada Lovelace
-- Barbara Liskov
+- Mohammad Aghaee
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+An android challenge focused on WebView topic and exploitation. players have to exploit the xss vulnerability in the application to reach the flag.
 
 **IMPORTANT:** This description will **NOT** be shared with participants.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
 - `android`
-- `auto`
-- `misc`
 
 ---
 
