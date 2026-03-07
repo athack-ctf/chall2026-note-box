@@ -12,8 +12,9 @@ category: "Rev"
 # DO NOT remove the vertical character "|" (aka pipe character)
 description: |
   Aliens just attacked all our websites. they want to attack the mobile apps too. 
+
   How did we not see it? Clearly cross platform technologies have cross platform vulnerabilities.
-  
+
 
 # The field connection_info is used to provide a link, hostname, or instructions on how to connect to a challenge
 
