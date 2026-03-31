@@ -1,54 +1,47 @@
-# Chall - NoteBox
+# @Hack 2026: NoteBox
 
-> Aliens just attacked all our websites. they want to attack the mobile apps too. cross platform technologies have cross platform vulnerabilities. hit it. 
+> Authored by [Mohammed](https://github.com/athack-ctf/chall2026-hyrcani).
 
-## Challenge Type
+- **Category**: `Rev`
+- **Solves**: `36/120`
+- **Tags**: `none`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> Aliens just attacked all our websites. they want to attack the mobile apps too.
+>
+> How did we not see it? Clearly cross platform technologies have cross platform vulnerabilities.
 
-## Design Type
+## Files
 
-- [X] **Black**-Box
-- [ ] **White**-Box
+- **[Download: NoteBox.apk](https://github.com/athack-ctf/chall2026-note-box/raw/refs/heads/main/offline-artifacts/NoteBox.apk)**
 
-## Designer(s)
+## Reveal Flag(s)
 
-- Mohammad Aghaee
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-## Description
+Did you **REALLY** try solving this challenge?
 
-An android challenge focused on WebView topic and exploitation. players have to exploit the xss vulnerability in the application to reach the flag.
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+- Flag 1: `ATHACKCTF{7h15_15_w3b_v13w}`
 
-## Category(ies)
+</details>
+</details>
 
-- `android`
 
 ---
 
-# Project Structure
+## About @Hack
 
-## 1. HACKME.md
+[@Hack](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted
+by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia
+University in Montreal, Canada.
 
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Sufficient instructions for building your offline artifacts from source
-  code. If your project includes multiple subprojects, please consult us (Alin and William).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files (properly named) intended for local download by
-  participants (e.g., a binary executable for reverse engineering, a custom-encoded image, etc.). For large files (
-  exceeding 100 MB), please consult us (Alin and William).
-
-## 4. Solution
-
-- **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.). 
+---
+[Check more challenges from @Hack 2026](https://github.com/athack-ctf/AtHackCTF-2026-Challenges).
