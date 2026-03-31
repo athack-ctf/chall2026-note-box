@@ -1,6 +1,6 @@
 # @Hack 2026: NoteBox
 
-> Authored by [Mohammed](https://github.com/athack-ctf/chall2026-hyrcani).
+> Authored by [Mohammed](https://github.com/ThisIsTFS).
 
 - **Category**: `Rev`
 - **Solves**: `36/120`
